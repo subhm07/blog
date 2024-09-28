@@ -15,6 +15,8 @@ Kumar Shubham specialized in analysis tools covering Network Security, Defence N
 - **Hydration:** Start the day with a glass of water to enhance cognitive performance (Adan, 2012).
 - **Meditation:** Practice mindfulness for 10-15 minutes to improve focus and reduce stress (Luders et al., 2012).
 
+![image](/images/shubh.png)
+
 ### 6:00 AM - 7:30 AM: Strength and Endurance Workout
 - **Warm-up (15 min):** Begin with light cardio to boost heart rate.
 - **Strength Training (45 min):** Focus on compound exercises to boost hormone levels (Kraemer & Ratamess, 2005).
