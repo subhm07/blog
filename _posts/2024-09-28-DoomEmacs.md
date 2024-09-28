@@ -1,6 +1,6 @@
 
 ---
-title: "Doom Emacs for Beginner"
+title: "OS: Doom Emacs"
 categories:
   - Open Source Application
 tags:
