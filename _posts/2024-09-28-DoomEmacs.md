@@ -3,7 +3,7 @@ layout: post
 title: Welcome To Basic Of Doom-Emacs!
 ---
 
-I am Linux Engineer and Love to Contributing in Pentesting  Automation. Working on  Reverse Engineer and Capture the Flag.
+Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.
 
 ![_config.yml]({{ site.baseurl }}/images/shubh.png)
 
