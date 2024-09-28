@@ -7,9 +7,13 @@ I am Linux Engineer and Love to Contributing in Pentesting  Automation. Working 
 
 ![_config.yml]({{ site.baseurl }}/images/shubh.png)
 
+Kumar Shubham specialized in analysis tools covering Network Security, Defence Network, Python, Firewalls, Ops, and Engineering. His knowledge includes InfoSec, SOC, Incident Response, Data Privacy, Splunk, Malware Analysis, and analytical abilities with Wazuh. Passionate about securing data and networks, he aims to bring his expertise to a team focused on innovation, collaboration, and excellence in cybersecurity.
+
 In today’s world, breaking free from the constraints of societal norms—often referred to as "escaping the Matrix"—requires a carefully crafted routine that optimizes both your mental and physical state. This scientifically-backed plan provides the tools and discipline needed to achieve independence, build resilience, and master the art of self-control.
 
-## Daily Routine for the 'Top G' Mindset
+## Daily Routine for the G Mindset
+## Age Group 
+- 24-30
 
 ### 5:00 AM - 6:00 AM: Morning Routine & Meditation
 - **Hydration:** Start the day with a glass of water to enhance cognitive performance (Adan, 2012).
