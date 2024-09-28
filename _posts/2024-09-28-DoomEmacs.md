@@ -1,15 +1,20 @@
 
 ---
-layout: post
-title: "Step-by-Step Guide to Setting Up Doom Emacs"
-date: 2024-09-24
-author: Your Name
-tags: [emacs, doom-emacs, productivity, tutorial]
+title: "Doom Emacs for Beginner"
+categories:
+  - Open Source Application
+tags:
+  - content
+  - css
+  - edge case
+  - lists
+  - markup
 ---
 
-# Step-by-Step Guide to Setting Up Doom Emacs
+Nested and mixed lists are an interesting beast. It's a corner case to make sure that
 
-Doom Emacs is a fast, minimalistic Emacs distribution designed to provide a modern experience with the power of Emacs. This guide will walk you through the process of installing and configuring Doom Emacs for an efficient and powerful workflow.
+* Lists within lists do not break the ordered list numbering order
+* Your list styles go deep enough.
 
 ## Table of Contents
 1. [Prerequisites](#prerequisites)
