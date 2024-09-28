@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome To Zion!
+title: Welcome To My Daily Challenge (1/30Days)!
 ---
 
 I am Linux Engineer and Love to Contributing in Pentesting  Automation. Working on  Reverse Engineer and Capture the Flag.
@@ -58,9 +58,8 @@ Kumar Shubham specialized in analysis tools covering Network Security, Defence N
 
 Following this rigorous routine gives you an edge in discipline, mental resilience, and physical mastery, setting you apart from the 99% who remain trapped in the cycle of societal norms. By gaining financial independence and mastering your own mind, you can break free and create the life you desire.
 
-ruby
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Matrix Escapee')
-#=> prints 'Hi, Matrix Escapee' to STDOUT.
+
