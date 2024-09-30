@@ -31,7 +31,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-  minimal_mistakes_skin: "mint", #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" , "air"
+  minimal_mistakes_skin: "dark", #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise" , "air"
 
 
 
