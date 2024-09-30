@@ -2,8 +2,6 @@
 layout: post
 title:   (1/30Days)!
 date: 2024-09-24 12:00:00
-categories: [Emacs, DoomEmacs, Productivity]
-tags: [DoomEmacs, Emacs, TextEditor, Coding]
 ---
 
 Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy veterans who want less framework in their frameworks, a modicum of stability (and reproducibility) from their package manager, and the performance of a hand rolled config (or better). It can be a foundation for your own config or a resource for Emacs enthusiasts to learn more about our favorite operating system.
