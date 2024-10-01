@@ -17,7 +17,7 @@ avatar: images/shubh.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: kr.subhm22@gmail.com
   facebook:
   flickr:
   github: /subhm07/subhm07.github.io
@@ -81,7 +81,7 @@ gems:
 
 # Exclude these files from your production _site
 exclude:
-  - Gemfile
+  
   - Gemfile.lock
   - LICENSE
   - README.md
