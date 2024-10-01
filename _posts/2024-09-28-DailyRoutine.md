@@ -1,6 +1,6 @@
 ---
 layout: post
-title:   (1/30Days)!
+title:   Doom Emacs (Day 1)
 date: 2024-09-24 12:00:00
 ---
 
@@ -8,7 +8,7 @@ Doom is a configuration framework for GNU Emacs tailored for Emacs bankruptcy ve
 
 ![_config.yml]({{ site.baseurl }}/images/evil.jpg)
 
-I use Athena OS based on arch which is basically known for Redteam and Blueteam training preinstalled tools with themed windows manager like Bspwn, Xfce, Gnome etc. I've faced many issues with hanging around terminals and windows manager for my custom pentesting purposes, Its accuracy and response time for trying vim, neovim almost 6 years and finally something which i found enormously powerfull and accurate for day to day basis work of mine. I'll share my experience of using doom emacs and Lets me show some basics first :
+I use Athena OS based on arch which is basically known for Redteam and Blueteam training preinstalled tools with themed windows manager like Bspwn, Xfce, Gnome etc. I've faced many issues with hanging around terminals and windows manager for my custom pentesting purposes. Doom emacs is not just a editor its much more then that like org or evil mode and specially buffer management  and finally something which i found enormously powerfull and accurate for day to day basis. I'll share my experience of using doom emacs and Lets me show some basics first :
 
 # **Doom Emacs: The Ultimate Configuration Framework for Power Users**
 
